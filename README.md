@@ -1,6 +1,6 @@
 # ML For Imaging
 
-[Course info](https://www.imperial.ac.uk/computing/current-students/courses/70014/)
+[Course info](https://www.imperial.ac.uk/computing/current-students/courses/70014/) <br />
 Data directories are omitted to reduce the size of this repository.
 
 ## Week 1: Classifying MNIST
